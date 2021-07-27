@@ -1,0 +1,1 @@
+g++ -ggdb -fcoroutines -std=c++20 -O0 -I../include gen.cpp -o gen
